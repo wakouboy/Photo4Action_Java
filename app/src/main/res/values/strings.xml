@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoLocate</string>
+    <string name="text_view_size">"65px"</string>
+</resources>
